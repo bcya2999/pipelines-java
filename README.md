@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/cyaehr/Java%20Pipeline/_apis/build/status/bcya2999.pipelines-java?branchName=main)](https://dev.azure.com/cyaehr/Java%20Pipeline/_build/latest?definitionId=3&branchName=main)
 
 # Contributing
 
